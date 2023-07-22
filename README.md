@@ -24,6 +24,7 @@ Contributing
 License
 
 **Introduction**
+
 The Mental Health Tracker AI Project is an AI-enabled application designed to track and monitor mental health and well-being. This project aims to provide users with a convenient and supportive tool to assess their mental fitness and identify potential areas of concern. By leveraging machine learning algorithms, the application offers insights into the user's mental health trends and provides personalized recommendations for improvement.
 
 **Project Overview**
