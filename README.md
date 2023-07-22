@@ -1,19 +1,26 @@
 # AICTE_B1_AI
-Mental Health Tracker AI Project
-
 ****Mental Health Tracker AI****
 
 **Table of Contents**
 
 Introduction
+
 Project Overview
+
 Features
+
 Requirements
+
 Installation
+
 Usage
+
 Data Collection
+
 Model
+
 Contributing
+
 License
 
 **Introduction**
@@ -25,33 +32,56 @@ The Mental Health Tracker AI Project is built using Python and incorporates vari
 
 **Features**
 
-User Input: Users can input their mental health-related data, such as sleep duration, stress levels, physical activity, etc.
+User Input: Users can input their mental health-related data.
+
 AI Predictions: The AI model analyzes the input data and provides a mental health fitness score.
+
 Insights & Recommendations: The application offers personalized insights and recommendations to improve mental well-being.
+
 Interactive Interface: The user interface allows for an intuitive and interactive experience.
 
 **Requirements**
 
 Python 3.x
+
 pandas
+
 scikit-learn
+
 Gradio
+
 **Installation**
+
 Clone the repository:
+
 bash
+
 Copy code
+
 git clone https://github.com/213468/AICTE_B1_AI.git
+
 cd AICTE_B1_AI
+
 Install the required packages:
+
 bash
+
 Copy code
+
 pip install pandas scikit-learn gradio
+
 Usage
+
 Run the application:
+ 
 bash
+
 Copy code
+
 python app.py
+
 Open your web browser and visit : https://58012ea7c1f45c4fdb.gradio.live to access the Mental Health Tracker AI.
+
 
 **Data Collection**
 
