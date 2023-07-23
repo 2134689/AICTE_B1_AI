@@ -107,4 +107,4 @@ The development of this project was inspired by the importance of mental health 
 Thanks to the open-source community for providing valuable libraries and resources.
 
 **Contact**
-For questions, feedback, or support, please contact the project maintainers at sahibsaifi12291@gmail.com.
+For questions, feedback, or support, please contact the project maintainer at sahibsaifi12291@gmail.com.
