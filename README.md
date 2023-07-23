@@ -99,3 +99,12 @@ Contributions to the Mental Health Tracker AI Project are welcome. If you find a
 **License**
 
 The Mental Health Tracker AI Project is licensed under the MIT License. See the LICENSE file for more details.
+
+**Acknowledgments**
+
+The development of this project was inspired by the importance of mental health and well-being in modern society.
+
+Thanks to the open-source community for providing valuable libraries and resources.
+
+**Contact**
+For questions, feedback, or support, please contact the project maintainers at sahibsaifi12291@gmail.com.
